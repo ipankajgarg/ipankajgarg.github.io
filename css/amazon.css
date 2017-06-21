@@ -184,7 +184,7 @@ ul{
 
 
 #content .images .img1{
-    background-image: url(images/launched.jpg);
+    background-image: url(../images/img_1.jpg);
     width: 485px;
     height: 285px;
     position: relative;
@@ -211,7 +211,7 @@ margin-bottom: 20px;
 }
 
 #content .images .img2{
-    background-image: url(images/lakme.jpg);
+    background-image: url(../images/img-1.jpg);
     width: 485px;
     height: 386px;
     position: relative;
@@ -243,7 +243,7 @@ margin-bottom: 20px;
            
         }
 #content .images2 .img1{
-     background-image: url(images/mango.jpg);
+     background-image: url(../images/img_4.jpg);
     width: 485px;
     height: 386px;
     position: relative;
@@ -257,7 +257,7 @@ margin-bottom: 20px;
     
 }
 #content .images2 .img2{
-     background-image: url(images/new.jpg);
+     background-image: url(../images/img_3.jpg);
     width: 485px;
     height: 265px;
     position: relative;
